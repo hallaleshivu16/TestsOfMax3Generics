@@ -1,0 +1,1 @@
+# TestsOfMax3Generics
